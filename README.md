@@ -1,4 +1,6 @@
-# ml-assignment-1
+# ml-assignment-1 
+
+Achieving 98/100 points
 
 Task 1: **Building a predictive model on American house prices**
 - Linear Regression 
